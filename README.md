@@ -1,3 +1,6 @@
+
+![1745526932921](https://github.com/user-attachments/assets/5d332645-8536-4536-8433-2d19c595160e)
+
 # 👋 ¡Hola! Soy Daniel Barros
 **Ingeniero Informático** con habilidades en análisis de datos, SQL y visualización.  
 *Tengo experiencia como Data Analyst a través de proyectos personales aplicando técnicas de limpieza de datos, consultas SQL y creación de dashboards en Power BI.*
