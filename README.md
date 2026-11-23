@@ -1,61 +1,57 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.png" />
+  <img alt="Daniel Barros · Agentes de IA, Automatización y Datos" src="./assets/header-light.png" width="100%" />
+</picture>
 
-![1745526932921](https://github.com/user-attachments/assets/5d332645-8536-4536-8433-2d19c595160e)
+Ingeniero en Informática con más de 4 años trabajando con SQL, procesos ETL y automatización. Uso esa base para construir con agentes de IA (Claude Code, Antigravity, Hermes Agent) y publicar proyectos con pruebas y evaluaciones medidas.
 
-# 👋 ¡Hola! Soy Daniel Barros
-**Ingeniero Informático** con habilidades en análisis de datos, SQL y visualización.  
-*Tengo experiencia como Data Analyst a través de proyectos personales aplicando técnicas de limpieza de datos, consultas SQL y creación de dashboards en Power BI.*
+<table>
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <strong>Buscador RAG · Next.js 16</strong><br /><br />
+      <a href="https://rag-docs-nextjs.vercel.app">
+        <img src="./assets/preview-rag-nextjs.png" alt="Buscador RAG sobre la documentación de Next.js 16" width="100%" />
+      </a><br /><br />
+      <code>91 % acierto · 96 % citas</code><br />
+      <sub>BM25 + Gemini · 40 preguntas con Groq como juez</sub><br /><br />
+      <a href="https://rag-docs-nextjs.vercel.app">Demo</a> ·
+      <a href="https://github.com/DanielAlejandro-Analytics/rag-docs-nextjs">Código</a> ·
+      <a href="https://rag-docs-nextjs.vercel.app/resultados">Evals</a>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <strong>Agente SQL</strong><br /><br />
+      <a href="https://agente-sql.vercel.app">
+        <img src="./assets/preview-agente-sql.png" alt="Agente de consultas SQL en lenguaje natural" width="100%" />
+      </a><br /><br />
+      <code>93,3 % exacto · 65 tests</code><br />
+      <sub>Español a SQL solo lectura · 28/30 filas exactas</sub><br /><br />
+      <a href="https://agente-sql.vercel.app">Demo</a> ·
+      <a href="https://github.com/DanielAlejandro-Analytics/agente-sql">Código</a>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <strong>Laca Roja (demo)</strong><br /><br />
+      <a href="https://laca-roja.vercel.app">
+        <img src="./assets/preview-laca-roja.png" alt="Laca Roja sitio de pedidos demo" width="100%" />
+      </a><br /><br />
+      <code>Next.js 16 · React 19 · WebGL</code><br />
+      <sub>Carta, pedido, checkout simulado y seguimiento</sub><br /><br />
+      <a href="https://laca-roja.vercel.app">Demo</a> ·
+      <a href="https://github.com/DanielAlejandro-Analytics/laca-roja">Código</a>
+    </td>
+  </tr>
+</table>
 
----
+**Cómo trabajo y verifico antes de publicar**
 
-## 🔧 Habilidades Técnicas  
+- Escribo instrucciones, reglas y skills reutilizables para que un agente complete una tarea de punta a punta y la repita igual.
+- Mantengo una base de conocimiento en Markdown y Obsidian con estado, decisiones y errores resueltos entre sesiones.
+- Pruebo antes de desplegar en Vercel: evaluaciones medidas con casos fallidos públicos, pruebas automatizadas y repositorios con `.env.example` sin secretos en git.
 
-### 🐍 **Python (Análisis de Datos)**  
-- Limpieza y transformación de datos con **Pandas** y **NumPy**.  
-- Visualizaciones con **Matplotlib** y **Seaborn**.  
-- Análisis exploratorio (EDA) en **Jupyter Notebook**.  
+**Herramientas:** `Claude Code` · `Antigravity` · `Hermes Agent` · `Codex` · `Gemini` · `Groq` · `SQL Server` · `PostgreSQL` · `MySQL` · `SQLite` · `Pentaho` · `Jenkins` · `Power Automate` · `Power BI` · `Python` · `Next.js` · `TypeScript` · `Tailwind` · `Vercel`
 
-### 🗃 **SQL Server**  
-- Consultas de nivel medio (JOINs, subconsultas, funciones de agregación).  
-- Creación y optimización de **vistas**.  
-- Modelado básico de bases de datos relacionales.  
-
-### 📊 **Power BI**  
-- Diseño de dashboards interactivos.  
-- **DAX** para métricas avanzadas.  
-- Transformación de datos con **Power Query**.  
-
----
-
-## 🚀 Proyectos Destacados  
-
-### 1️⃣ **Limpieza y Análisis de Datos con Python**  
-Link : [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](https://github.com/Dynamico-Analytics/Video-Game-Sales/blob/main/Games-Cleaning.ipynb)  
-**Tecnologías**: Python (Pandas, NumPy, Matplotlib)  
-- Limpieza de dataset con valores nulos y duplicados.  
-- Análisis exploratorio (EDA) con visualizaciones clave.  
-- Conclusiones basadas en tendencias de los datos.  
-
-
-### 2️⃣ **Dashboard Interactivo en Power BI**  
-Link : [![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)](https://github.com/Dynamico-Analytics/PowerBI_AdventureWorks)  
-**Tecnologías**: Power BI, DAX, Power Query  
-- Conexión a base de datos SQL Server.  
-- Transformación de datos con Power Query (M language).  
-- Medidas DAX para KPI estratégicos.  
-- Visualizaciones interactivas (filtros cruzados, tooltips).  
-
-
----
-
-## 📚 Cursos Relevantes  
-- **Data Analytics con SQL Server y Power BI** (Udemy)
-- **SQL para Ciencia de Datos** (Udemy).  
-- **Power BI: Desde Cero hasta Dashboards Profesionales** (LinkedIn Learning).  
-
----
-
-## 📫 Contacto  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielbarrosgonzalez/)  
-[![Correo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dbarrosg@outlook.com)  
-
-✨ *Abierto a oportunidades como Data Analyst Junior o roles similares.*  
+<p align="center">
+  <a href="https://portafolio-dbarros.vercel.app">Portafolio</a> ·
+  <a href="https://www.linkedin.com/in/danielbarrosgonzalez/">LinkedIn</a> ·
+  <a href="mailto:dbarrosg@outlook.com">dbarrosg@outlook.com</a>
+</p>
