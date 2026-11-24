@@ -38,8 +38,7 @@ Ingeniero en Informática con más de 4 años trabajando con SQL, procesos ETL y
       </a><br />
       <code>React 19 · Vite · Motion</code><br />
       <sub>Carta en libro que se hojea y reservas</sub><br />
-      <a href="https://casa-verbena.vercel.app">Demo</a> ·
-      <a href="https://github.com/DanielAlejandro-Analytics/casa-verbena">Código</a>
+      <a href="https://casa-verbena.vercel.app">Demo</a>
     </td>
   </tr>
 </table>
