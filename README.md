@@ -32,13 +32,13 @@ Ingeniero en Informática con más de 4 años trabajando con SQL, procesos ETL y
       <a href="https://github.com/DanielAlejandro-Analytics/agente-sql">Código</a>
     </td>
     <td width="33.3%" align="center" valign="top">
-      <strong>Laca Roja (demo)</strong><br />
-      <a href="https://laca-roja.vercel.app">
-        <img src="./assets/preview-laca-roja.png" alt="Laca Roja sitio de pedidos demo" width="100%" />
+      <strong>Casa Verbena (demo)</strong><br />
+      <a href="https://casa-verbena.vercel.app">
+        <img src="./assets/preview-casa-verbena.png" alt="Casa Verbena, sitio de un bistró de cocina de huerto" width="100%" />
       </a><br />
-      <code>Next.js 16 · React 19 · WebGL</code><br />
-      <sub>Carta, pedido, checkout y seguimiento</sub><br />
-      <a href="https://laca-roja.vercel.app">Demo</a> ·
+      <code>React 19 · Vite · Motion</code><br />
+      <sub>Carta en libro que se hojea y reservas</sub><br />
+      <a href="https://casa-verbena.vercel.app">Demo</a> ·
       <a href="https://github.com/DanielAlejandro-Analytics/laca-roja">Código</a>
     </td>
   </tr>
@@ -54,4 +54,4 @@ Ingeniero en Informática con más de 4 años trabajando con SQL, procesos ETL y
 
 - **IA y agentes:** Claude Code, Antigravity, Hermes Agent, Codex, Gemini y Groq (RAG, text-to-SQL y evaluación con LLM como juez).
 - **Datos y automatización:** SQL Server, PostgreSQL, MySQL, SQLite, Pentaho, Jenkins, Power Automate, Power BI y Python.
-- **Web (con asistencia de IA):** Next.js, React, TypeScript, Tailwind y Vercel.
+- **Web (con asistencia de IA):** Next.js, React, Vite, TypeScript, Tailwind y Vercel.
